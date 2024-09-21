@@ -1,6 +1,6 @@
 {
   "name": "admin-dashboard",
-  "homepage": "https://github.com/beki-kel/book-admin-dashboard-mine.git",
+  "homepage":  "https://beki-kel.github.io/book-admin-dashboard-mine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
