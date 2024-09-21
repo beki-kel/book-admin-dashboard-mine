@@ -39,7 +39,6 @@ function App() {
                   <NavLink to="/">Dashboard</NavLink>
                   <NavLink to="/books">Books</NavLink>
                   <NavLink to="/reservations">Reservations</NavLink>
-                  <NavLink to="/users">Users</NavLink>
                 </div>
               </div>
               {isLoggedIn && (
