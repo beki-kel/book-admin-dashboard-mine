@@ -39,7 +39,8 @@ function App() {
                   <NavLink to="/">Dashboard</NavLink>
                   <NavLink to="/books">Books</NavLink>
                   <NavLink to="/reservations">Reservations</NavLink>
-                </div>
+                  <NavLink to="/users">Users</NavLink>
+       
               </div>
               {isLoggedIn && (
                 <div className="flex items-center">
