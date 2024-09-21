@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-admin-dashboard-mine/static/css/main.75c00059.css",
+    "main.js": "/book-admin-dashboard-mine/static/js/main.1d5a80e0.js",
+    "index.html": "/book-admin-dashboard-mine/index.html",
+    "main.75c00059.css.map": "/book-admin-dashboard-mine/static/css/main.75c00059.css.map",
+    "main.1d5a80e0.js.map": "/book-admin-dashboard-mine/static/js/main.1d5a80e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c00059.css",
+    "static/js/main.1d5a80e0.js"
+  ]
+}
